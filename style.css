@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: rgb(251, 255, 0);
     text-align: center;
 }
@@ -8,16 +8,16 @@ body{
 .theli{
    font-style: italic;
 }
-.img1 {
+img{
     width: 50;
 }
-header{
+.reader{
     border-bottom: gold;
     padding: 20px;
     font-size: 36px;
     color: crimson;
 }
-section{
+.section{
     background-color: blue;
     padding-bottom: 40px;
     padding-top: 50px;
